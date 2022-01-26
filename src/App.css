@@ -1,0 +1,11 @@
+.App {
+    background: rgb(12, 9, 9);
+  }
+
+  .Expo {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  }
+  
